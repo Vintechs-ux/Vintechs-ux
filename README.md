@@ -1,18 +1,35 @@
 Hi there, I'm **Vintechs-ux**!
 
-A **Software Engginer**.
+Backend & Security-minded builder. Currently focused on Golang, 
+DevSecOps, and IoT systems.
 
-My current focus is on **backend development** using **Python**, where I enjoy building automation scripts and working with system-level programming. I'm also proficient in **JavaScript**, particularly **Node.js**, for building powerful and efficient server-side applications.Beyond coding, I have a keen interest in **Linux systems administration** and **computer networking**. Understanding the underlying infrastructure allows me to build more resilient and performant software.I'm a firm believer in **continuous learning** and am always eager to explore new technologies and challenges in the ever-evolving world of software development.
+## What I work with
 
----
+**Languages**
+Go · NodeJs · C/C++ (Arduino/ESP)
 
-### **Tech Stack & Expertise:**
+**Backend & Infra**
+REST APIs · Linux · Git · Docker 
 
-* **Programming Languages:** Python, JavaScript
-* **Backend:** Python, Node.js, RESTful APIs, WebSocket
-* **Systems:** Linux
-* **Networking:** Fundamentals, Automation
-* **Tools:** Git
+**IoT**
+ESP8266 · ESP32 · Arduino · MQTT · Sensor integration
+
+**Security**
+Web Application Pentesting · Network Assessment · OSINT · 
+Responsible Disclosure
+
+## Currently
+
+- Exploring Golang for backend services
+- Deepening web security & DevSecOps practices
+- Building IoT projects for real clients
+
+## Highlights
+
+- Conducted independent security assessment on school 
+  WiFi infrastructure → formal responsible disclosure report
+- Delivered 10+ IoT projects for freelance clients
+  (RFID, gas monitoring, smart automation)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raditya_barumalang7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radityaramadhanimalang@gmail.com) 
