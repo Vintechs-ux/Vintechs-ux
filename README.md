@@ -1,40 +1,56 @@
-Hi there, I'm **Vintechs-ux**!
+# Hi, I'm Raditya Barumalang
 
-Backend & Security-minded builder. Currently focused on Golang, 
-DevSecOps, and IoT systems.
+Aspiring backend engineer with a growing focus on **Golang, DevSecOps, and web security**.
 
-## What I work with
-
-**Languages**
-Go · NodeJs · C/C++ (Arduino/ESP)
-
-**Backend & Infra**
-REST APIs · Linux · Git · Docker 
-
-**IoT**
-ESP8266 · ESP32 · Arduino · MQTT · Sensor integration
-
-**Security**
-Web Application Pentesting · Network Assessment · OSINT · 
-Responsible Disclosure
-
-## Currently
-
-- Exploring Golang for backend services
-- Deepening web security & DevSecOps practices
-- Building IoT projects for real clients
-
-## Highlights
-
-- Conducted independent security assessment on school 
-  WiFi infrastructure → formal responsible disclosure report
-- Delivered 10+ IoT projects for freelance clients
-  (RFID, gas monitoring, smart automation)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raditya_barumalang7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radityaramadhanimalang@gmail.com) 
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+Currently in a structured self-learning journey focused on building strong technical foundations through backend development, security research, and hands-on experimentation.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vintechs-ux&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Current Focus
+
+- Building backend fundamentals with **Go**
+- Exploring **REST APIs**, system design, and backend architecture
+- Learning **DevSecOps** and security-oriented engineering practices
+- Conducting independent **web/network security research**
+- Developing IoT systems for academic and real-world use cases
+
+---
+
+## Tech Stack
+
+### Languages
+`Go` `JavaScript` `C/C++ (Arduino/ESP)`
+
+### Backend & Infrastructure
+`REST API` `Linux` `Git` `Docker`
+
+### IoT
+`ESP8266` `ESP32` `Arduino`
+`MQTT` `Sensor Integration`
+
+### Security
+`Web Security`
+`Network Assessment`
+`Responsible Disclosure`
+
+---
+
+## Selected Highlights
+
+### Independent Security Research
+Conducted a security assessment on school WiFi infrastructure and documented findings through a formal responsible disclosure report.
+
+### IoT Development
+Delivered **10+ IoT-based academic and automation projects**, including RFID systems, gas monitoring, and smart automation.
+
+---
+
+## Currently Learning
+
+```go
+[]string{
+    "Concurrency in Go",
+    "Backend Architecture",
+    "API Security",
+    "DevSecOps Fundamentals",
+}
