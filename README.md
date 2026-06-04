@@ -1,4 +1,4 @@
-# Hi, I'm Raditya Barumalang
+# Hi, I'm Vintechs-ux
 
 Aspiring backend engineer with a growing focus on **Golang, DevSecOps, and web security**.
 
